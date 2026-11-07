@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d4f1a05-be5f-414f-94e0-7e9613de3d62" name="更改" comment="origin file">
-      <change beforePath="$PROJECT_DIR$/.idea/workplace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workplace.iml" afterDir="false" />
+    <list default="true" id="9d4f1a05-be5f-414f-94e0-7e9613de3d62" name="更改" comment="2026-11-07 10:45">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PROJECT_B_gironde_housing_zh.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT_B_gironde_housing_zh.ipynb" afterDir="false" />
     </list>
@@ -237,7 +236,7 @@
       <workItem from="1793871597877" duration="66000" />
       <workItem from="1793871869889" duration="1289000" />
       <workItem from="1793873176489" duration="4502000" />
-      <workItem from="1794014274104" duration="5108000" />
+      <workItem from="1794014274104" duration="7952000" />
     </task>
     <task id="LOCAL-00001" summary="origin file">
       <option name="closed" value="true" />
@@ -247,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793873529188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2026-11-07 10:45">
+      <option name="closed" value="true" />
+      <created>1794019556659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794019556659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +276,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="origin file" />
-    <option name="LAST_COMMIT_MESSAGE" value="origin file" />
+    <MESSAGE value="2026-11-07 10:45" />
+    <option name="LAST_COMMIT_MESSAGE" value="2026-11-07 10:45" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
